@@ -1,0 +1,11 @@
+﻿  NLetterSuffix.cpp
+NLetterSuffix.cpp(72): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+NLetterSuffix.cpp(102): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+NLetterSuffix.cpp(102): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+  正在生成代码
+  131 of 620 functions (21.1%) were compiled, the rest were copied from previous compilation.
+    82 functions were new in current compilation
+    96 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  NLetterSuffix.vcxproj -> D:\GitHub\5-8HW\x64\Release\NLetterSuffix.exe
+  NLetterSuffix.vcxproj -> D:\GitHub\5-8HW\x64\Release\NLetterSuffix.pdb (Full PDB)

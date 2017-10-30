@@ -1,0 +1,9 @@
+﻿  NLetterSuffix.cpp
+d:\github\5-8hw\nlettersuffix\nlettersuffix.cpp(68): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\github\5-8hw\nlettersuffix\nlettersuffix.cpp(94): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\github\5-8hw\nlettersuffix\nlettersuffix.cpp(94): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  main.cpp
+  NLetterSuffix.vcxproj -> D:\GitHub\5-8HW\x64\Debug\NLetterSuffix.exe
+  NLetterSuffix.vcxproj -> D:\GitHub\5-8HW\x64\Debug\NLetterSuffix.pdb (Full PDB)
